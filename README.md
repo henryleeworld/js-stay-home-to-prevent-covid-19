@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/NuIvRAA.gif)
+![](https://i.imgur.com/ROLbN5U.gif)
 > 疫情升溫，在家的時間也變多了
